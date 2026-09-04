@@ -57,7 +57,7 @@
 		<dependency>
 			<groupId>com.github.binarywang</groupId>
 			<artifactId>weixin-java-mp</artifactId>
-			<version>2.7.0</version>
+			<version>4.8.6-20260831.173906</version>
 		</dependency>
 		<dependency>
 			<groupId>cn.springboot</groupId>
